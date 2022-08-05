@@ -4,6 +4,7 @@
 <p>- MySQL</p>
 
 ## Description
+<p>This is a self-designed assignment</p>
 <p>App built by ReactJS with basic CRUD functionality</p>
 
 ## Capture Screen 
