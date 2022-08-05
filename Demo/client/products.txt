@@ -1,0 +1,6 @@
+name: Apple MacBook Pro 13 Touch Bar M1 256GB 2020
+img: https://cdn2.cellphones.com.vn/358x/media/catalog/product/m/b/mbp-silver-select-202011-spa.jpg
+
+
+name: Apple Macbook Pro 13 M2 2022 8GB 256GB
+img: https://cdn2.cellphones.com.vn/358x/media/catalog/product/t/_/t_i_xu_ng_4_3.png
